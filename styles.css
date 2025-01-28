@@ -34,6 +34,7 @@ h2{
 .player_one video{
 	padding:20px;
 	width:90%;
+	background-color: rgb(255, 255, 255);
 	height:390px;
 }
 .player_two audio{
