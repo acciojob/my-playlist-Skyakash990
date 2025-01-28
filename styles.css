@@ -34,13 +34,13 @@ h2{
 .player_one video{
 	padding:20px;
 	width:90%;
+	border-radius:10px;
 	background-color: rgb(255, 255, 255);
 	height:390px;
 }
 .player_two audio{
 	background-color: rgb(255, 255, 255);
 	width:100%;
-	
 	border-radius:10px;
 }
  
